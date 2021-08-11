@@ -1,0 +1,2 @@
+# TFStaticSite
+Static Site - Azure
